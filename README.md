@@ -7,7 +7,7 @@
 - 👵 ex-Python Instructor at the University of Liverpool & the University of Bath for [@GFG](https://codefirstgirls.com/)
 - 🌍 Experience in the UK, Europe, Middle East and the US
 - 🌱 Currently learning LLMs
-- ⚡ Fun Fact: I'm obsessed with Pandas
+- ⚡ Fun Fact: I'm a mum of 6 cats
 
 
 
