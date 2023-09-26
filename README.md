@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Dimitra 👋
+
+- 👩‍🎓 I’m currently pursuing my MsBA @USC
+- 👩‍💻 I’m a Technical Graduate Intern @Intel
+- 💕 I’m the Managing Director of [Girls In Tech - Greece](https://greece.girlsintech.org/)
+- 🤖 ex-Consultant & Developer @Deloitte specializing in developing robots and automating processes 🪄
+
 
 <!--
 **dimitrachrl/dimitrachrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
